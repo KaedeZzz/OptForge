@@ -16,7 +16,7 @@ public:
         std::span<const double> x,
         std::span<double> grad
     ) const = 0;
-
+    
 };
 
 }
